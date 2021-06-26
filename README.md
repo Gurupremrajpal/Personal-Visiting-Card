@@ -12,6 +12,8 @@ Front-end : HTML, CSS <br>
 
 Made ✌🏻 by <a href="https://www.linkedin.com/in/guruprem-singh-rajpal-67b486122/"> Guruprem Rajpal </a>
 <br>
+Click on Star if you like :)
+<br>
 <br>
 <br>
 ## License
